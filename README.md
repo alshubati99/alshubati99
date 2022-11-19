@@ -80,6 +80,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) 
 ------------------------------------------------------------------------------------------------------------- -->
-[![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=6)](https://visitcount.itsvg.in)
+   [![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ---
