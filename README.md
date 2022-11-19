@@ -1,6 +1,6 @@
 ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-  **👋 Salam, I’m Khawlah Alshubati :) <br>
+  **<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="19"/> Salam, I’m Khawlah Alshubati :) <br>
   👀 I’m interested in ML and AI. <br>
   🌱 I’m currently learning Software Engineering. <br>
   💞️ I’m looking to collaborate on any useful projects. <br>**
@@ -88,7 +88,9 @@
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
    
 
 ---
+
+
