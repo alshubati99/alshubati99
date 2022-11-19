@@ -1,15 +1,15 @@
-# *💫 About Me:*
+## **💫 About Me:**
 
 -👋 Salam, I’m Khawlah Alshubati :)<br>- 👀 I’m interested in ML and AI.<br>- 🌱 I’m currently learning Software Engineering.<br>- 💞️ I’m looking to collaborate on any useful projects.
 
 
-## *🌐 Let's Get Connected:*
+## [*🌐 Let's Get Connected:*] 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography) 
 
-# 💻 *Tech Stack:*
+## [*💻 Tech Stack:*]
 
 ### Languages I learned: 
 
@@ -58,15 +58,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 
 
-# 📊 *My GitHub Stats:*
+## [*📊 My GitHub Stats:*]
 
 ![](https://github-readme-stats.vercel.app/api?username=alshubati99&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alshubati99&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ *Random Dev Quote*
+## [✍️ *Random Dev Quote*]
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
+<br>
 [![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=6)](https://visitcount.itsvg.in)
