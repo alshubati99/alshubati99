@@ -1,4 +1,4 @@
------------------------------------------------------------------------------------------------------------------------------------
+
 
   **👋 Salam, I’m Khawlah Alshubati :) <br>
   👀 I’m interested in ML and AI. <br>
@@ -6,7 +6,7 @@
   💞️ I’m looking to collaborate on any useful projects. <br>**
   
 
-## *🌐 Chat With Me :)*
+## *🌐 Know More About Me :)*
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) <br>
    [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
@@ -76,7 +76,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=alshubati99&theme=material-palenight&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## *✍️ What Developers Say:)*
+## *✍️ Dev Ramdon Qoutes :)*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 -------------------------------------------------------------------------------------------------------------
