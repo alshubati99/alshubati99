@@ -1,4 +1,4 @@
-<font color="purple"> ## 💫 About Me:  </font>
+@@💫 About Me:@@
 
 -👋 Salam, I’m Khawlah Alshubati :)<br>- 👀 I’m interested in ML and AI.<br>- 🌱 I’m currently learning Software Engineering.<br>- 💞️ I’m looking to collaborate on any useful projects.
 
