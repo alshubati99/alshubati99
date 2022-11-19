@@ -70,7 +70,7 @@
     ![React Native](https://img.shields.io/badge/react_native-740d9a.svg?style=flat&logo=react&logoColor=white) 
     ![Apache](https://img.shields.io/badge/apache-740d9a.svg?style=flat&logo=apache&logoColor=white) 
     ![SQLite](https://img.shields.io/badge/sqlite-740d9a.svg?style=flat&logo=sqlite&logoColor=white) 
-    [![PyTorch](https://img.shields.io/badge/PyTorch-430959.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)<br>
+    [![PyTorch](https://img.shields.io/badge/PyTorch-740d9a.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)<br>
     
     
 
