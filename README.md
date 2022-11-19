@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 -👋 Salam, I’m Khawlah Alshubati :)<br>- 👀 I’m interested in ML and AI.<br>- 🌱 I’m currently learning Software Engineering.<br>- 💞️ I’m looking to collaborate on any useful projects.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) 
 
 # 💻 Tech Stack:
