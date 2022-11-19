@@ -32,6 +32,7 @@
 - ***Tecknologies, Frameworks & Laibraries I use:***
 
    [![jupyter](https://img.shields.io/badge/Jupyter-430959.svg?&style=for-the-flat&logo=Jupyter&logoColor=white)](https://jupyter.org)
+   [![VSCode](https://img.shields.io/badge/VSCode-430959.svg?&style=for-the-flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
    [![git](https://img.shields.io/badge/Git-430959?style=for-the-flat&logo=git&logoColor=white)](https://git-scm.com)
    [![MySQL](https://img.shields.io/badge/mysql-430959.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) <br>
    [![AWS](https://img.shields.io/badge/AWS-430959.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
