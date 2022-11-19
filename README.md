@@ -8,9 +8,9 @@
 
 ## *🌐 Let's Get Connected:*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) <br>
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography) <br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography) 
 
 ## *💻 Tech Stack:*
 
@@ -79,7 +79,7 @@
 ## *✍️ Random Dev Quote*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+-------------------------------------------------------------------------------------------------------------
 [![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ---
