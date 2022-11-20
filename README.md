@@ -12,11 +12,11 @@
 ## *🌐 Find Me At :)*
  -  let's get connected and share our knowledge/ experiences... 
  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-5c1876.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
-   [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-5c1876?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
-   [![HackerRank](https://img.shields.io/badge/-Hackerrank-5c1876?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
-   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-5c1876?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
-   [![Instagram](https://img.shields.io/badge/Instagram-5c1876.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-5c1876.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
+       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-5c1876?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
+       [![HackerRank](https://img.shields.io/badge/-Hackerrank-5c1876?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
+       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-5c1876?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
+       [![Instagram](https://img.shields.io/badge/Instagram-5c1876.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
 
 
 ## *💻 Tech Stack :)*
