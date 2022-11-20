@@ -5,7 +5,7 @@
     
     
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=9f08b7&size=40&center=true&vCenter=true&width=600&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=9f08b7&size=40&center=true&vCenter=true&width=600&&background=000000&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
 </div>
 
     
