@@ -1,13 +1,16 @@
-## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="35px">
 
-  **<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="19"/> Salam, I’m Khawlah Alshubati :) <br>
-  👀 I’m interested in ML and AI. <br>
-  🌱 I’m currently learning Software Engineering. <br>
-  💞️ I’m looking to collaborate on any useful projects. <br>**
-  
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
+
+---
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=843fc7&size=40&center=true&vCenter=true&width=600&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+</div>
+
+---
+
 
 ## *🌐 Find Me At :)*
- - let's get connected and share our knowledge/ experiences... 
+ -  let's get connected and share our knowledge/ experiences... 
  
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-5c1876.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
    [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-5c1876?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
