@@ -62,10 +62,10 @@
 
 - ***I am Curious to Learn:*** 
 
-    [![Flask](https://img.shields.io/badge/flask-721596.svg?style=for-the-badge&logo=flask&logoColor=white)] (https://flask.palletsprojects.com)
+    [![Flask](https://img.shields.io/badge/flask-721596.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
     [![Flutter](https://img.shields.io/badge/Flutter-721596.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)<br>
     [![PHP](https://img.shields.io/badge/php-721596.svg?style=for-the-badge&logo=php&logoColor=white) ](https://www.php.net)
-    [![C#](https://img.shields.io/badge/c%23-721596.svg?style=for-the-badge&logo=c-sharp&logoColor=white)] (https://learn.microsoft.com/en-us/dotnet/csharp)
+    [![C#](https://img.shields.io/badge/c%23-721596.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp)
     [![Kotlin](https://img.shields.io/badge/kotlin-721596.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
     [![Go](https://img.shields.io/badge/go-721596.svg?style=for-the-badge&logo=go&logoColor=white) ](https://go.dev)
     [![Rust](https://img.shields.io/badge/rust-721596.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -105,4 +105,5 @@
 
 ---
 
+    
 
