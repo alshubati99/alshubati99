@@ -18,9 +18,10 @@
        [![LinkedIn](https://img.shields.io/badge/LinkedIn-430959.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
        [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-430959?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
        [![HackerRank](https://img.shields.io/badge/-Hackerrank-430959?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
+       [![SoloLearn](https://img.shields.io/badge/Sololearn-430959.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/16067124/?ref=app)
        [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-430959?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
        [![Instagram](https://img.shields.io/badge/Instagram-430959.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
-
+       
 
 ## *💻 Tech Stack :)*
 
