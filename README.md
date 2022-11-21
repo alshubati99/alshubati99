@@ -62,23 +62,23 @@
 
 - ***I am Curious to Learn:*** 
 
-    ![Flask](https://img.shields.io/badge/flask-721596.svg?style=for-the-badge&logo=flask&logoColor=white) 
-    ![Flutter](https://img.shields.io/badge/Flutter-721596.svg?style=for-the-badge&logo=Flutter&logoColor=white) <br>
-    ![PHP](https://img.shields.io/badge/php-721596.svg?style=for-the-badge&logo=php&logoColor=white) 
-    ![C#](https://img.shields.io/badge/c%23-721596.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-    ![Kotlin](https://img.shields.io/badge/kotlin-721596.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![Go](https://img.shields.io/badge/go-721596.svg?style=for-the-badge&logo=go&logoColor=white) 
-    ![Rust](https://img.shields.io/badge/rust-721596.svg?style=for-the-badge&logo=rust&logoColor=white)
-    ![Ruby](https://img.shields.io/badge/ruby-721596.svg?style=for-the-badge&logo=ruby&logoColor=white) <br>
-    ![.Net](https://img.shields.io/badge/.NET-721596?style=for-the-badge&logo=.net&logoColor=white) 
-    ![Angular](https://img.shields.io/badge/angular-721596.svg?style=for-the-badge&logo=angular&logoColor=white) 
-    ![jQuery](https://img.shields.io/badge/jquery-721596.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-    ![Laravel](https://img.shields.io/badge/laravel-721596.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-    ![NodeJS](https://img.shields.io/badge/node.js-721596?style=for-the-badge&logo=node.js&logoColor=white) 
-    ![React](https://img.shields.io/badge/react-721596.svg?style=for-the-badge&logo=react&logoColor=white) 
-    ![React Native](https://img.shields.io/badge/react_native-721596.svg?style=for-the-badge&logo=react&logoColor=white) 
-    ![Apache](https://img.shields.io/badge/apache-721596.svg?style=for-the-badge&logo=apache&logoColor=white) 
-    ![SQLite](https://img.shields.io/badge/sqlite-721596.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+    [![Flask](https://img.shields.io/badge/flask-721596.svg?style=for-the-badge&logo=flask&logoColor=white)] (https://flask.palletsprojects.com)
+    [![Flutter](https://img.shields.io/badge/Flutter-721596.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)<br>
+    [![PHP](https://img.shields.io/badge/php-721596.svg?style=for-the-badge&logo=php&logoColor=white) ](https://www.php.net)
+    [![C#](https://img.shields.io/badge/c%23-721596.svg?style=for-the-badge&logo=c-sharp&logoColor=white)] (https://learn.microsoft.com/en-us/dotnet/csharp)
+    [![Kotlin](https://img.shields.io/badge/kotlin-721596.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+    [![Go](https://img.shields.io/badge/go-721596.svg?style=for-the-badge&logo=go&logoColor=white) ](https://go.dev)
+    [![Rust](https://img.shields.io/badge/rust-721596.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+    [![Ruby](https://img.shields.io/badge/ruby-721596.svg?style=for-the-badge&logo=ruby&logoColor=white) ](https://www.ruby-lang.org)<br>
+    [![.Net](https://img.shields.io/badge/.NET-721596?style=for-the-badge&logo=.net&logoColor=white) ](https://dotnet.microsoft.com/en-us)
+    [![Angular](https://img.shields.io/badge/angular-721596.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io) 
+    [![jQuery](https://img.shields.io/badge/jquery-721596.svg?style=for-the-badge&logo=jquery&logoColor=white) ](https://jquery.com)
+    [![Laravel](https://img.shields.io/badge/laravel-721596.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com) 
+    [![NodeJS](https://img.shields.io/badge/node.js-721596?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org)
+    [![React](https://img.shields.io/badge/react-721596.svg?style=for-the-badge&logo=react&logoColor=white) ](https://reactjs.org)
+    [![React Native](https://img.shields.io/badge/react_native-721596.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev) 
+    [![Apache](https://img.shields.io/badge/apache-721596.svg?style=for-the-badge&logo=apache&logoColor=white) ](https://www.apache.org)
+    [![SQLite](https://img.shields.io/badge/sqlite-721596.svg?style=for-the-badge&logo=sqlite&logoColor=white) ](https://www.sqlite.org/index.html)
     [![PyTorch](https://img.shields.io/badge/PyTorch-721596.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)<br>
     
     
