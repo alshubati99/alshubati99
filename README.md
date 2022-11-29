@@ -5,7 +5,7 @@
     
     
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=9b08b0&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=3366ff&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
 </div>
 
     
@@ -15,71 +15,71 @@
 ## *🌐 Find Me At :)*
  -  let's get connected and share our knowledge/ experiences... 
  
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-430959.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
-       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-430959?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
-       [![HackerRank](https://img.shields.io/badge/-Hackerrank-430959?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
-       [![SoloLearn](https://img.shields.io/badge/Sololearn-430959.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/16067124/?ref=app)
-       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-430959?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
-       [![Instagram](https://img.shields.io/badge/Instagram-430959.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-002bff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
+       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-002bff?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
+       [![HackerRank](https://img.shields.io/badge/-Hackerrank-002bff?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
+       [![SoloLearn](https://img.shields.io/badge/Sololearn-002bff.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/16067124/?ref=app)
+       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-002bff?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
+       [![Instagram](https://img.shields.io/badge/Instagram-002bff.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
        
 
 ## *💻 Tech Stack :)*
 
 - ***Languages I learned:***
 
-  [![C](https://img.shields.io/badge/c-5c1876.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.bloodshed.net)
-  [![C++](https://img.shields.io/badge/c++-5c1876.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.bloodshed.net) <br>
-  [![Python](https://img.shields.io/badge/python-5c1876?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-  [![Java](https://img.shields.io/badge/java-5c1876.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) <br>
-  [![CSS3](https://img.shields.io/badge/css3-5c1876.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-  [![HTML5](https://img.shields.io/badge/html5-5c1876.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-  [![JavaScript](https://img.shields.io/badge/javascript-5c1876.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)<br>
+  [![C](https://img.shields.io/badge/c-0056ff.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.bloodshed.net)
+  [![C++](https://img.shields.io/badge/c++-0056ff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.bloodshed.net) <br>
+  [![Python](https://img.shields.io/badge/python-0056ff?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+  [![Java](https://img.shields.io/badge/java-0056ff.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) <br>
+  [![CSS3](https://img.shields.io/badge/css3-0056ff.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+  [![HTML5](https://img.shields.io/badge/html5-0056ff.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+  [![JavaScript](https://img.shields.io/badge/javascript-0056ff.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)<br>
 
 
 - ***Tecknologies, Frameworks & Laibraries I use:***
 
-   [![jupyter](https://img.shields.io/badge/Jupyter-5c1876.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
-   [![VSCode](https://img.shields.io/badge/VSCode-5c1876.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
-   [![git](https://img.shields.io/badge/Git-5c1876?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-   [![MySQL](https://img.shields.io/badge/mysql-5c1876.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-   [![WordPress](https://img.shields.io/badge/WordPress-5c1876.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://www.mysql.com)<br>
-   [![AWS](https://img.shields.io/badge/AWS-5c1876.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
-   [![Azure](https://img.shields.io/badge/azure-5c1876.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com)
-   [![Oracle](https://img.shields.io/badge/Oracle-5c1876?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com) 
-   [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-5c1876.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com) <br>
-   [![NumPy](https://img.shields.io/badge/numpy-5c1876.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) 
-   [![Pandas](https://img.shields.io/badge/pandas-5c1876.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-   [![scikit-learn](https://img.shields.io/badge/scikit--learn-5c1876.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) <br>
+   [![jupyter](https://img.shields.io/badge/Jupyter-002bff.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
+   [![VSCode](https://img.shields.io/badge/VSCode-002bff.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
+   [![git](https://img.shields.io/badge/Git-002bff?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+   [![MySQL](https://img.shields.io/badge/mysql-002bff.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+   [![WordPress](https://img.shields.io/badge/WordPress-002bff.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://www.mysql.com)<br>
+   [![AWS](https://img.shields.io/badge/AWS-002bff.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
+   [![Azure](https://img.shields.io/badge/azure-002bff.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com)
+   [![Oracle](https://img.shields.io/badge/Oracle-002bff?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com) 
+   [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-002bff.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com) <br>
+   [![NumPy](https://img.shields.io/badge/numpy-002bff.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) 
+   [![Pandas](https://img.shields.io/badge/pandas-002bff.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+   [![scikit-learn](https://img.shields.io/badge/scikit--learn-002bff.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) <br>
   
    
 
 
 - ***I Can Design Using:*** 
 
-   [![Canva](https://img.shields.io/badge/Canva-721596.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) <br>
-   [![Adobe XD](https://img.shields.io/badge/Adobe-721596?style=for-the-badge&logo=Adobe%20XD&logoColor=white)](https://www.adobe.com/cy_en/products/xd.html)<br>
-   [![Photoshop](https://img.shields.io/badge/photoshop-721596.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/cy_en/products/photoshop.html) <br>
+   [![Canva](https://img.shields.io/badge/Canva-002bff.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) <br>
+   [![Adobe XD](https://img.shields.io/badge/Adobe-002bff?style=for-the-badge&logo=Adobe%20XD&logoColor=white)](https://www.adobe.com/cy_en/products/xd.html)<br>
+   [![Photoshop](https://img.shields.io/badge/photoshop-002bff.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/cy_en/products/photoshop.html) <br>
 
 - ***I am Curious to Learn:*** 
 
-   <!-- [![Flask](https://img.shields.io/badge/flask-721596.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com) -->
-    [![Flutter](https://img.shields.io/badge/Flutter-721596.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)<br> 
-    [![PHP](https://img.shields.io/badge/php-721596.svg?style=for-the-badge&logo=php&logoColor=white) ](https://www.php.net)
-    [![C#](https://img.shields.io/badge/c%23-721596.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp)
-    [![Kotlin](https://img.shields.io/badge/kotlin-721596.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-    [![Go](https://img.shields.io/badge/go-721596.svg?style=for-the-badge&logo=go&logoColor=white) ](https://go.dev)
-    [![Rust](https://img.shields.io/badge/rust-721596.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-    [![Ruby](https://img.shields.io/badge/ruby-721596.svg?style=for-the-badge&logo=ruby&logoColor=white) ](https://www.ruby-lang.org)<br>
-    [![.Net](https://img.shields.io/badge/.NET-721596?style=for-the-badge&logo=.net&logoColor=white) ](https://dotnet.microsoft.com/en-us)
-    [![Angular](https://img.shields.io/badge/angular-721596.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io) 
-    [![jQuery](https://img.shields.io/badge/jquery-721596.svg?style=for-the-badge&logo=jquery&logoColor=white) ](https://jquery.com)
-    [![Laravel](https://img.shields.io/badge/laravel-721596.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com) 
-    [![NodeJS](https://img.shields.io/badge/node.js-721596?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org)
-    [![React](https://img.shields.io/badge/react-721596.svg?style=for-the-badge&logo=react&logoColor=white) ](https://reactjs.org)
-    [![React Native](https://img.shields.io/badge/react_native-721596.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev) 
-    [![Apache](https://img.shields.io/badge/apache-721596.svg?style=for-the-badge&logo=apache&logoColor=white) ](https://www.apache.org)
-    [![SQLite](https://img.shields.io/badge/sqlite-721596.svg?style=for-the-badge&logo=sqlite&logoColor=white) ](https://www.sqlite.org/index.html)
-    [![PyTorch](https://img.shields.io/badge/PyTorch-721596.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)<br>
+    [![Flask](https://img.shields.io/badge/flask-006bff.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+    [![Flutter](https://img.shields.io/badge/Flutter-006bff.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)<br> 
+    [![PHP](https://img.shields.io/badge/php-006bff.svg?style=for-the-badge&logo=php&logoColor=white) ](https://www.php.net)
+    [![C#](https://img.shields.io/badge/c%23-006bff.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp)
+    [![Kotlin](https://img.shields.io/badge/kotlin-006bff.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+    [![Go](https://img.shields.io/badge/go-006bff.svg?style=for-the-badge&logo=go&logoColor=white) ](https://go.dev)
+    [![Rust](https://img.shields.io/badge/rust-006bff.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+    [![Ruby](https://img.shields.io/badge/ruby-006bff.svg?style=for-the-badge&logo=ruby&logoColor=white) ](https://www.ruby-lang.org)<br>
+    [![.Net](https://img.shields.io/badge/.NET-006bff?style=for-the-badge&logo=.net&logoColor=white) ](https://dotnet.microsoft.com/en-us)
+    [![Angular](https://img.shields.io/badge/angular-006bff.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io) 
+    [![jQuery](https://img.shields.io/badge/jquery-006bff.svg?style=for-the-badge&logo=jquery&logoColor=white) ](https://jquery.com)
+    [![Laravel](https://img.shields.io/badge/laravel-006bff.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com) 
+    [![NodeJS](https://img.shields.io/badge/node.js-006bff?style=for-the-badge&logo=node.js&logoColor=white) ](https://nodejs.org)
+    [![React](https://img.shields.io/badge/react-006bff.svg?style=for-the-badge&logo=react&logoColor=white) ](https://reactjs.org)
+    [![React Native](https://img.shields.io/badge/react_native-006bff.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev) 
+    [![Apache](https://img.shields.io/badge/apache-006bff.svg?style=for-the-badge&logo=apache&logoColor=white) ](https://www.apache.org)
+    [![SQLite](https://img.shields.io/badge/sqlite-006bff.svg?style=for-the-badge&logo=sqlite&logoColor=white) ](https://www.sqlite.org/index.html)
+    [![PyTorch](https://img.shields.io/badge/PyTorch-006bff.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)<br>
     
     
 
@@ -88,9 +88,9 @@
 
   <!-- ![](https://github-readme-stats.vercel.app/api?username=alshubati99&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=alshubati99&theme=material-palenight&hide_border=false)<br/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=alshubati99&show_icons=true&theme=material-palenight"> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alshubati99&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=alshubati99&show_icons=true&theme=algolia"> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alshubati99&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"> <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ## *✍️ Dev Ramdon Qoutes :)*
 
