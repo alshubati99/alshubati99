@@ -5,7 +5,7 @@
     
     
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=3366ff&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
 </div>
 
     
@@ -15,12 +15,12 @@
 ## *🌐 Find Me At :)*
  -  let's get connected and share our knowledge and experiences... 
  
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-3366ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
-       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-3366ff?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
-       [![HackerRank](https://img.shields.io/badge/-Hackerrank-3366ff?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
-       [![SoloLearn](https://img.shields.io/badge/Sololearn-3366ff.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/16067124/?ref=app)
-       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-3366ff?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
-       [![Instagram](https://img.shields.io/badge/Instagram-3366ff.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-4285F4.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
+       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-4285F4?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
+       [![HackerRank](https://img.shields.io/badge/-Hackerrank-4285F4?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khawlahalshubat1) 
+       [![SoloLearn](https://img.shields.io/badge/Sololearn-4285F4.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/16067124/?ref=app)
+       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-4285F4?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16822259/khawlah) <br>
+       [![Instagram](https://img.shields.io/badge/Instagram-4285F4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kh0filtersphotography)
        
 
 ## *💻 Tech Stack :)*
