@@ -13,7 +13,7 @@
 
 
 ## *🌐 Find Me At :)*
- -  let's get connected and share our knowledge/ experiences... 
+ -  let's get connected and share our knowledge and experiences... 
  
        [![LinkedIn](https://img.shields.io/badge/LinkedIn-002bff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
        [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-002bff?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
@@ -90,13 +90,13 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=alshubati99&theme=material-palenight&hide_border=false)<br/> -->
 <img src="https://github-readme-stats.vercel.app/api?username=alshubati99&show_icons=true&theme=algolia"> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alshubati99&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshubati99&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=default)
 
 <!-- ## *✍️ Dev Ramdon Qoutes :)*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) 
 ------------------------------------------------------------------------------------------------------------- -->
-[![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alshubati99&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
