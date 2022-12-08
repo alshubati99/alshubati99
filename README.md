@@ -3,11 +3,21 @@
 
 ---
     
-    
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);" alt="Software Engineering Student"></a>
 </div>
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=I'm+Khawlah+Alshubati;" alt="Software Engineering Student"></a>
+</div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=studying+Software+Engineering;" alt="Software Engineering Student"></a>
+</div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+</div>
+<!-- <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);I'm+Khawlah+Alshubati;studying+Software+Engineering;I’m+ interested+in+ML+and+AI;" alt="Software Engineering Student"></a>
+</div> -->
     
 ---
 
