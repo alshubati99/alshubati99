@@ -25,8 +25,8 @@
 ## *🌐 Find Me At :)*
  -  let's get connected and share our knowledge and experiences... 
  
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/khawlah-alshubati-b85919181) 
-       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-000000?style=for-the-badge&logo=Microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/)<br>
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/khawlah-alshubati/) 
+       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-000000?style=for-the-badge&logo=Microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/users/khawlahalshubati-5989/transcript?source=docs&wt.mc_id=studentamb_211042)<br>
        [![HackerRank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/khawlahalshubat1) 
        [![SoloLearn](https://img.shields.io/badge/Sololearn-000000.svg?style=for-the-badge&logo=Sololearn&logoColor=blue)](https://www.sololearn.com/Profile/16067124/?ref=app)
        [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=blue)](https://stackoverflow.com/users/16822259/khawlah) <br>
