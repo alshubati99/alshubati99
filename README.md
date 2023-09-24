@@ -25,7 +25,7 @@
 ## *🌐 Find Me At :)*
  -  let's get connected and share our knowledge and experiences... 
  
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/khawlah-alshubati/) 
+       [![](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/khawlah-alshubati/) 
        [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-000000?style=for-the-badge&logo=Microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/users/khawlah-alshubati/)
        [![DataCamp](https://img.shields.io/badge/DataCamp-000000.svg?style=for-the-badge&logo=DataCamp&logoColor=blue)](https://www.datacamp.com/portfolio/khawlahAlshubati)<br>
        [![HackerRank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/khawlahalshubat1) 
