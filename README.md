@@ -26,12 +26,12 @@
  -  let's get connected and share our knowledge and experiences... 
  
        [![](https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/khawlah-alshubati/) 
-       [![Microsoft Learn](https://img.shields.io/badge/-Microsoft-000000?style=for-the-badge&logo=Microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/users/khawlah-alshubati/)
-       [![DataCamp](https://img.shields.io/badge/DataCamp-000000.svg?style=for-the-badge&logo=DataCamp&logoColor=blue)](https://www.datacamp.com/portfolio/khawlahAlshubati)<br>
-       [![HackerRank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/khawlahalshubat1) 
-       [![SoloLearn](https://img.shields.io/badge/Sololearn-000000.svg?style=for-the-badge&logo=Sololearn&logoColor=blue)](https://www.sololearn.com/Profile/16067124/?ref=app)
-       [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=blue)](https://stackoverflow.com/users/16822259/khawlah) <br>
-       [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=blue)](https://www.instagram.com/kh0filtersphotography/)
+       [![](https://img.shields.io/badge/-Microsoft-000000?style=for-the-badge&logo=Microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/users/khawlah-alshubati/)
+       [![](https://img.shields.io/badge/DataCamp-000000.svg?style=for-the-badge&logo=DataCamp&logoColor=blue)](https://www.datacamp.com/portfolio/khawlahAlshubati)<br>
+       [![](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/khawlahalshubat1) 
+       [![](https://img.shields.io/badge/Sololearn-000000.svg?style=for-the-badge&logo=Sololearn&logoColor=blue)](https://www.sololearn.com/Profile/16067124/?ref=app)
+       [![](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=blue)](https://stackoverflow.com/users/16822259/khawlah) <br>
+       [![](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=blue)](https://www.instagram.com/kh0filtersphotography/)
 
        
 
